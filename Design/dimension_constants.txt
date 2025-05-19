@@ -1,0 +1,14 @@
+﻿"thigh_width"= 3cm
+"thigh_thickeness"= 1cm
+"shin_thickness"= 0.6cm
+"shin_width"= 5cm
+"D1@Sketch7"="thigh_width"+2cm
+"link_length" = 8.5cm
+"D2@Sketch7"="link_length"
+"D1@Boss-Extrude5"="thigh_thickeness"
+"D2@Sketch8"="thigh_width"-2mm
+"bolt head"= 4.2mm'With clearance
+"D3@Sketch16"="bolt head"
+"D4@Sketch16"="bolt head"
+"D5@Sketch16"="bolt head"
+"D6@Sketch16"="bolt head"
