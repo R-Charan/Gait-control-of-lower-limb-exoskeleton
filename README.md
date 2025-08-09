@@ -5,15 +5,15 @@
 This project presents the design and development of an **underactuated lower limb exoskeleton** capable of augmenting human strength by **400%** while maintaining natural gait patterns. Unlike traditional 6+ DOF systems, our innovative 4-DOF approach (hip and knee joints only) provides effective power augmentation at reduced complexity and cost.
 
 ### Key Achievements
-- ✅ **400% strength augmentation** validated through EMG testing
-- ✅ **5x peak strength amplification** capability
-- ✅ **Real-time gait pattern tracking** and control
-- ✅ **Novel underactuated approach** with multi-point ground contact
-- ✅ **Custom control architecture** with motion disturbance rejection
+- **400% strength augmentation** validated through EMG testing
+- **5x peak strength amplification** capability
+- **Real-time gait pattern tracking** and control
+- **Novel underactuated approach** with multi-point ground contact
+- **Custom control architecture** with motion disturbance rejection
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 1. **Motor Control**: Configure torque and position controllers for BLDC motors
 2. **Gait Analysis**: Analyze differences in gait patterns with/without load and exoskeleton
@@ -23,7 +23,7 @@ This project presents the design and development of an **underactuated lower lim
 
 ---
 
-## 🛠️ Technical Architecture
+## Technical Architecture
 
 ### Hardware Components
 - **Motors**: BLDC motors with torque/position control
@@ -46,7 +46,7 @@ Setpoint Generation → PD Controller → Bang-Bang Control → Motor Actuation
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. Hardware Setup & Integration
 - Motor and driver configuration
@@ -68,7 +68,7 @@ Setpoint Generation → PD Controller → Bang-Bang Control → Motor Actuation
 
 ---
 
-## 📊 Results
+## Results
 
 ### Control Performance
 - Successfully achieved repeating gait cycles
@@ -89,7 +89,7 @@ Setpoint Generation → PD Controller → Bang-Bang Control → Motor Actuation
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### Kinematic Model
 ```
@@ -109,7 +109,7 @@ For undisturbed shank angular position during thigh motion:
 
 ---
 
-## 🔧 Implementation Details
+## Implementation Details
 
 ### PCB Design
 - Custom circuit board for motor control integration
@@ -127,7 +127,7 @@ For undisturbed shank angular position during thigh motion:
 
 ---
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 | Metric | Value | Validation Method |
 |--------|--------|------------------|
@@ -139,7 +139,7 @@ For undisturbed shank angular position during thigh motion:
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 ### Immediate Improvements
 - **Multi-core Implementation**: Parallel processing for enhanced performance
@@ -155,7 +155,7 @@ For undisturbed shank angular position during thigh motion:
 
 ---
 
-## 👥 Team
+## Team
 
 **Project Members:**
 - Adithya Venkata Narayanan – 111120001
@@ -167,7 +167,7 @@ For undisturbed shank angular position during thigh motion:
 
 ---
 
-## 📚 Key References
+## Key References
 
 1. **Kinoshita, H. (1985)**. Effects of different loads and carrying systems on selected biomechanical parameters describing walking gait. *Ergonomics, 28(9), 1347–1362.*
 
@@ -177,7 +177,7 @@ For undisturbed shank angular position during thigh motion:
 
 ---
 
-## 🏆 Project Impact
+## Project Impact
 
 This research addresses a critical gap in exoskeleton technology by demonstrating that **underactuated systems** can provide effective power augmentation comparable to traditional higher-DOF systems. The work contributes to:
 
@@ -188,7 +188,7 @@ This research addresses a critical gap in exoskeleton technology by demonstratin
 
 ---
 
-## 📄 License
+## License
 
 This project is part of academic research conducted at National Institute of Technology, Tiruchirapalli. Please cite appropriately if using this work for research purposes.
 
